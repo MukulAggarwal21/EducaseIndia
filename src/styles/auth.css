@@ -1,0 +1,70 @@
+.auth-container {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.buttondiv{
+  margin-bottom: 10px;
+}
+
+.welcome-container {
+  justify-content: flex-end;
+  padding-bottom: 4rem;
+  margin-top: 70%;
+}
+
+.auth-header {
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.radio-group {
+  display: flex;
+  margin-top: 0.5rem;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+}
+
+.radio-input {
+  height: 1.25rem;
+  width: 1.25rem;
+  accent-color: #8A4BEF;
+}
+
+.radio-label {
+  margin-left: 0.5rem;
+  color: #4b5563;
+}
+
+.form-submit {
+  padding-top: 1rem;
+}
+
+.button1{
+  margin-bottom: 5px;
+  background-color: chocolate;
+}
+.buttons{
+  /* background-color: blue; */
+
+}
+@media only screen and (max-width: 600px) {
+
+
+.welcome-container {
+  justify-content: flex-end;
+  padding-bottom: 4rem;
+  margin-top: 96%;
+}
+
+
+}
+

@@ -1,0 +1,62 @@
+.account-header {
+  padding: 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.account-header h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.account-content {
+  padding: 1.5rem;
+}
+
+
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.profile-image-container {
+  position: relative;
+  margin-right: 1rem;
+}
+
+.profile-image {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-badge {
+  position: absolute;
+  bottom: -0.25rem;
+  right: -0.25rem;
+  background-color: #8A4BEF;
+  border-radius: 50%;
+  width: 1.25rem;
+  height: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 0.75rem;
+}
+
+.profile-info h2 {
+  font-weight: 500;
+  margin: 0;
+}
+
+.profile-info p {
+  font-size: 0.875rem;
+  margin: 0.25rem 0 0 0;
+}
+
+.profile-description {
+  font-size: 0.875rem;
+  color: #666;
+}
