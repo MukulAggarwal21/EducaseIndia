@@ -11,7 +11,7 @@ const AccountSettings = () => {
         <div className="profile-container">
           <div className="profile-image-container">
             <img
-              src="./src/components/image.png"
+              src="https://up.yimg.com/ib/th?id=OIP.65cr4DZsNGAvYWUr6Rg5qQHaHa&pid=Api&rs=1&c=1&qlt=95&w=124&h=124"
               alt="Profile"
               className="profile-image"
             />
